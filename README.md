@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 ## My Repositories:
  
 ## Swift
+
+👕 <a href="https://github.com/AhmedMSoultan/Storak"><b>Storak</b></a> -> E-Commerce application that's based on Shopify API.
+We designed this app to provide our customers with all functionality and features they will need with the simplest UI to make them having fun shopping in our application.
+##
 🎬 <a href="https://github.com/AhmedMSoultan/Netfilx-Movies-App"><b>Netflix Movies App</b></a> -> Mobile application that views upcoming and latest movies.
 ##
 🍱 <a href="https://github.com/AhmedMSoultan/RestaurantMenu"><b>Restaurant Menu</b></a> -> Mobile application for restaurants that view a list of meals.
