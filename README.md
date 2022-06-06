@@ -20,6 +20,8 @@ Here are some ideas to get you started:
   </br>
   <b> Personal Resume: <a href="https://docs.google.com/document/d/1R2Hrp4wPpodmrWyqsj2GyLWNmeRdx5ABtLzaVw2Hsoc/edit?usp=sharing"> RESUME </a></b> 📄
   </br>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedMSoultan&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedSoultan" /> </p>
+  
 
 ## My Repositories:
  
@@ -64,3 +66,17 @@ New stylish and elegant design.
 🧐 I’m currently learning and updating my skills in iOS development.
 </br>
 📫 How to reach me: Ahmed.m.soultan@gmail.com | <a href="https://www.linkedin.com/in/ahmed-soultan/"><b>LinkedIn</b></a>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+  
+<a href="https://www.facebook.com/A7medSoultan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="A7medSoultan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ahmedsoultan_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmedsoultan_" height="30" width="40" /></a>
+<a href="https://twitter.com/A7mdSoultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="A7mdSoultan" height="30" width="40" /></a><a href="https://www.linkedin.com/in/ahmed-soultan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed-Soultan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9823604/ahmed-soultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Ahmed-Soultan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ahmed_m_soultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmed_m_soultan" height="30" width="40" /></a>
+<a href="https://leetcode.com/AhmedSoultan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AhmedSoultan" height="30" width="40" /></a>
+</p>
+
+<p align="left"> <a href="https://twitter.com/A7mdSoultan" target="blank"><img src="https://img.shields.io/twitter/follow/A7mdSoultan?logo=twitter&style=for-the-badge" alt="A7mdSoultan" /></a> </p>
