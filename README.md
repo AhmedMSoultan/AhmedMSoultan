@@ -20,9 +20,20 @@ Here are some ideas to get you started:
   </br>
   <b> Personal Resume: <a href="https://docs.google.com/document/d/1R2Hrp4wPpodmrWyqsj2GyLWNmeRdx5ABtLzaVw2Hsoc/edit?usp=sharing"> RESUME </a></b> 📄
   </br>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedMSoultan&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedSoultan" /> </p>
   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedMSoultan&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedSoultan" /> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedMSoultan&show_icons=true&locale=en" alt="AhmedMSoultan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMSoultan" alt="AhmedMSoultan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedMSoultan&show_icons=true&locale=en&layout=compact" alt="AhmedMSoultan" /></p>
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+  <!--=======================================================================================================================================================-->
+  
 ## My Repositories:
  
 ## Swift 
@@ -62,15 +73,22 @@ New stylish and elegant design.
 ##
   <!--=======================================================================================================================================================-->
 
+  <h3 align="left">Languages and Tools:</h3>
+  
+<p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://dev.java/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></p>
+
+  <!--=======================================================================================================================================================-->
+  
 ## What I've been up to... 
 🧐 I’m currently learning and updating my skills in iOS development.
 </br>
 📫 How to reach me: Ahmed.m.soultan@gmail.com | <a href="https://www.linkedin.com/in/ahmed-soultan/"><b>LinkedIn</b></a>
 
+  <!--=======================================================================================================================================================-->
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-  
 <a href="https://www.facebook.com/A7medSoultan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="A7medSoultan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ahmedsoultan_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmedsoultan_" height="30" width="40" /></a>
 <a href="https://twitter.com/A7mdSoultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="A7mdSoultan" height="30" width="40" /></a><a href="https://www.linkedin.com/in/ahmed-soultan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed-Soultan" height="30" width="40" /></a>
